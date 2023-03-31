@@ -1,10 +1,7 @@
 import RPi.GPIO as gpio
 import time
 
-gpio.setmode(gpio.BCM)
 
-
-button=9
 
 gpio.setup(red1,gpio.OUT)
 gpio.setup(white1,gpio.OUT)
