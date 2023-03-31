@@ -2,12 +2,7 @@ import RPi.GPIO as gpio
 import time
 
 gpio.setmode(gpio.BCM)
-red1=3
-white1=4
-green1=17
-red2=27
-white2=22
-green2=10
+
 
 button=9
 
